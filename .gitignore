@@ -1,2 +1,6 @@
+# env local files
+.env*
+
 # files
 *OS
+*.js
