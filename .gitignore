@@ -1,8 +1,9 @@
 # env local files
 *.env
-
+app.js
 
 # files
 *OS
-app.js
 
+# misc
+/app.js
