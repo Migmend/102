@@ -1,0 +1,9 @@
+# env local files
+*.env
+app.js
+
+# files
+*OS
+
+# misc
+/app.js
